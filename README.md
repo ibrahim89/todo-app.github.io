@@ -1,2 +1,4 @@
-# todo-app.github.io
-this is for learning purpose
+# Simple Todo App in React 
+## To learn basics of react js
+
+
